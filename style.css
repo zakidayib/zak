@@ -1,0 +1,124 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 60px;
+   color: lightcoral ;
+}
+h2{
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: lightcoral ;
+    font-size: 40px;
+    font-size: 2.5rem;
+   
+    
+}
+hr{
+    border: dotted 6px lightgray;
+    border-bottom: none;
+    width: 6%;
+    margin: 100px auto;
+}
+h3{
+    color: lightcoral ;
+    
+}
+.top-container{
+    background-color:rgb(189, 228, 253);
+   padding-top: 30px;
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 350px;
+    left: 350;
+}
+.profile{
+    width: 15%;
+}
+.code{
+    width: 25%;
+    margin: auto;
+    float: left;
+    margin-right: 20px;
+  
+   
+   
+}
+.chillies{
+    width: 25%;
+    float:right;
+    margin-left: 20px;
+   
+    
+}
+.middle-cotainer{
+   
+
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+   text-align: left;
+    
+}
+.code-description{
+    width: 75%;
+    line-height: 2;
+   
+    
+}
+.chilli-description{
+    
+    width: 75%;
+    line-height: 2;
+
+}
+.bottom-container{
+    background-color:rgb(189, 228, 253);
+ padding-bottom: 50px;
+ padding-top: 50px;
+}
+a{
+    padding: 100px auto  ;
+  margin: 40px ;
+  color: lightcoral ;
+}
+a:hover{
+color: rgb(255, 255, 255);
+}
+.copy-right{
+    color: lightcoral ;
+}
+.btn {
+	box-shadow:inset 0px -3px 7px 0px #71dfe3;
+	background:linear-gradient(to bottom, #6bafd6 5%, #62e0cb 100%);
+	background-color:#6bafd6;
+	border-radius:8px;
+	border:2px solid #5ddae3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:16px;
+	font-weight:bold;
+	padding:15px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #62e0cb 5%, #6bafd6 100%);
+	background-color:#62e0cb;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
